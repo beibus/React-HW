@@ -1,0 +1,12 @@
+h2 {
+  display: flex;
+}
+
+h2 > img {
+  align-self: center;
+}
+
+.breadcrumbs-wrapper {
+display: flex;
+flex-direction: row;
+}
