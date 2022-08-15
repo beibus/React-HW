@@ -1,10 +1,11 @@
 import React from 'react'
+import Breadcrumb from '../Breadcrumb/Breadcrumb'
 
 export const Message = () => {
   return (
     <div className='message-wrapper'>
-      <h3>whichever nba team your support,</h3>
-      <h3>get your jersey here today.</h3>
+      <Breadcrumb title = 'whichever nba team your support,'/>
+      <Breadcrumb title = 'get your jersey here today.'/>
     </div>
   )
 }

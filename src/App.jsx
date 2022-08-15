@@ -10,7 +10,7 @@ function App() {
   
   return (
     <div className="App">
-      <Header />
+      <Header/>
       <Breadcrumbs first='jersey' second='nike & nba collaboration'/>
       <TitleContainer first='jersey' second='nba'/>
       <Message/>
