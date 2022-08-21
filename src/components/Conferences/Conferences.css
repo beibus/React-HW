@@ -1,0 +1,44 @@
+.conferences-wrapper {
+display: flex;
+justify-content: space-between;
+}
+
+.block {
+    width: 47%;
+}
+
+.conference-wrapper {
+    width: 100%;
+    height: 40vh;
+    
+}
+
+.conference-title {
+    font-size: 35px;
+line-height: 41px;
+
+margin-bottom: 30px;
+padding-bottom: 10px;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 2em;
+    width: 100%;
+    height: 100%;
+}
+
+.grid-item {
+    background-color: bisque;
+    width: 100%;
+    height: 100%;
+}
+
+.west h2 {
+    border-bottom: 3px solid red;
+}
+
+.east h2 {
+    border-bottom: 3px solid blue;
+}

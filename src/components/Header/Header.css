@@ -1,4 +1,21 @@
 .header-wrapper {
   display: flex;
   flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: 90px;
+  font-size: 16px;
+  padding: 0px 120px;
+}
+
+.links {
+  display: flex;
+  width: 30%;
+  justify-content: space-between;
+}
+
+.icons-wrapper {
+  display: flex;
+  width: 10%;
+  justify-content: space-between;
 }

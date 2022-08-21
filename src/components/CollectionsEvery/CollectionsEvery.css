@@ -1,0 +1,33 @@
+.every-container .small {
+    font-size: 16px;
+    color: black;
+    margin: 30px 0px;
+}
+
+.every-container .big {
+    font-size: 65px;
+    border-bottom: 3px solid black;
+    color: black;
+
+}
+
+.every-container .red {
+}
+
+.every-container .blue {
+    border-top: 3px solid black;
+    color: black;
+    
+}
+
+.every-container .red > h2::before {
+    color: red;
+    content: 'every';
+    margin-right: 25px;
+}
+
+.every-container .blue > h2::before {
+    color: blue;
+    content: 'one';
+    margin-right: 25px;
+}

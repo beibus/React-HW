@@ -1,0 +1,23 @@
+.image-wrapper > img {
+    width: 100%;
+}
+
+.image-container {
+    margin-bottom: 25px;
+    padding: 0px 120px;
+}
+
+.right-message {
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 20px;
+}
+
+.message-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    border-bottom: 3px solid black;
+
+}
+

@@ -1,0 +1,20 @@
+.white-container {
+    padding: 0px 120px;
+    height: 100vh;
+
+}
+
+.white-container h3 {
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size: 19px;
+line-height: 22px;
+
+color: #000000;
+}
+
+.conferences-wrapper {
+    margin-bottom: 15px;
+    height: 50%;
+}

@@ -1,7 +1,15 @@
 .title-container-wrapper {
   display: flex;
   flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
   border-top: 1px solid black;
   border-bottom: 1px solid black;
+  font-size: 130px;
+  font-weight: 800;
+  padding: 0px 120px;
+}
 
+h2 {
+  margin: 0;
 }

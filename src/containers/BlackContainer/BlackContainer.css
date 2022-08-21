@@ -1,0 +1,23 @@
+.black-container {
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    padding: 40px 120px;
+    height: 110vh;
+}
+
+.lower-section-wrapper {
+    display: flex;
+justify-content: space-between;
+align-items: center;
+}
+
+.black-container h3 {
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size: 19px;
+line-height: 22px;
+
+color: #ffff;
+}

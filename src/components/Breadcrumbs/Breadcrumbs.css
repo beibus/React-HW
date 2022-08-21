@@ -9,4 +9,6 @@ h2 > img {
 .breadcrumbs-wrapper {
 display: flex;
 flex-direction: row;
+font-size: 16px;
+padding: 0px 120px;
 }

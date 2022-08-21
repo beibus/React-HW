@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap");
+
+.card-wrapper {
+  height: 373px;
+  width: 373px;
+  background-color: #ffff;
+}
+
+.card-image-wrapper {
+  width: 100%;
+}
+
+.description-wrapper {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 19px;
+  line-height: 22px;
+  color: #ffff;
+  text-transform: none;
+}
+
+

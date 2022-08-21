@@ -1,0 +1,20 @@
+.small {
+    font-size: 16px;
+    color: #ffff;
+    margin: 30px 0px;
+}
+
+.big {
+    font-size: 65px;
+    border-bottom: 3px solid #ffff;
+
+}
+
+.red {
+    color: #FB0223;
+    border-top: 3px solid #ffff;
+}
+
+.white {
+    color: #ffff
+}

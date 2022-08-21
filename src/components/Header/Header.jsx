@@ -28,11 +28,13 @@ export const Header = () => {
   return (
     <header className="header-wrapper">
       <Logo/>
+      <div className="links">
         {
           menuItems.map(item => (
             <Link src={item.source} newTab={true}>{item.name}</Link>
           ))
         }
+      </div>
         <Icons/>
     </header>
   )
