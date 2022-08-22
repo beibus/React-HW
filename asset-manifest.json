@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-HW/static/css/main.701fce1f.css",
+    "main.js": "/React-HW/static/js/main.2973ff0b.js",
+    "static/media/cobe-mj.png": "/React-HW/static/media/cobe-mj.b8446930203b107e5d87.png",
+    "static/media/jersey.png": "/React-HW/static/media/jersey.c80a9f8f4e3a01e9f152.png",
+    "index.html": "/React-HW/index.html",
+    "main.701fce1f.css.map": "/React-HW/static/css/main.701fce1f.css.map",
+    "main.2973ff0b.js.map": "/React-HW/static/js/main.2973ff0b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.701fce1f.css",
+    "static/js/main.2973ff0b.js"
+  ]
+}
